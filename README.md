@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Mobile+Developer;Problem+Solver;Always+Learning!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Mobile+Developer;Problem+Solver;Always+Learning!)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
@@ -28,7 +28,7 @@ const kawã = {
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <div align="center">
@@ -92,7 +92,7 @@ const kawã = {
 
 <div align="center">
 
-|  **Área** | 📈 **Experiência** | 🔧 **Principais Tecnologias** |
+|  **Área** |  **Experiência** |  **Principais Tecnologias** |
 |-------------|--------------------|---------------------------------|
 | **Frontend** | 3+ anos | React JS, JavaScript, CSS3, HTML5 |
 | **Backend** | 1+ ano | Node.js, Express, API REST |
@@ -105,8 +105,8 @@ const kawã = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_PROJETO&theme=tokyonight)](https://github.com/SEU_USUARIO/NOME_DO_PROJETO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_PROJETO2&theme=tokyonight)](https://github.com/SEU_USUARIO/NOME_DO_PROJETO2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Izileth&repo=Prestige-Motors-Ecommerce&theme=tokyonight)](https://github.com/Izileth/Prestige-Motors-Ecommerce)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Izileth&repo=Ecliptica-Ecommerce&theme=tokyonight)](https://github.com/Izileth/Ecliptica-Ecommerce)
 
 </div>
 
@@ -114,7 +114,7 @@ const kawã = {
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)](https://github.com/SEU_USUARIO)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Izileth&theme=tokyo-night)](https://github.com/Izileth)
 
 </div>
 
@@ -162,6 +162,6 @@ graph TD
 
 **💖 Obrigado pela visita!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Izileth&color=blueviolet&style=for-the-badge)
 
 </div>
