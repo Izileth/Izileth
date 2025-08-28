@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=2E86C1&center=true&width=500&lines=Kawã+Correia;Desenvolvedor+Full+Stack;3%2B+anos+Frontend;1%2B+ano+Backend;Especialista+em+React+%26+Node.js)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=root@kawã:~$+whoami;Full+Stack+Developer;root@kawã:~$+cat+skills.txt;React+%7C+Node.js+%7C+MongoDB;root@kawã:~$+./run_awesome.sh)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
