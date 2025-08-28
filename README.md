@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Mobile+Developer;Problem+Solver;Always+Learning!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=2E86C1&center=true&width=500&lines=Kawã+Correia;Desenvolvedor+Full+Stack;3%2B+anos+Frontend;1%2B+ano+Backend;Especialista+em+React+%26+Node.js)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
@@ -82,9 +82,9 @@ const kawã = {
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/SEU_USUARIO)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izileth&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/Izileth)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/SEU_USUARIO)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izileth&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/Izileth)
 
 </div>
 
