@@ -15,50 +15,53 @@
 ## Sobre Mim
 
 ```bash
-kawã@developer:~$ whoami
-Full Stack Developer | Problem Solver | Code Enthusiast
+root@kawã:~# nmap -sV kawã.dev
+Starting Nmap scan on kawã.dev...
 
-kawã@developer:~$ pwd
-/home/kawã/projects/awesome_developer
+PORT     STATE SERVICE    VERSION
+22/tcp   open  ssh        Developer 3.0
+80/tcp   open  http       Full-Stack-Server
+3000/tcp open  react      Frontend-Master
+8000/tcp open  node       Backend-Ninja
+27017/tcp open  mongodb   Database-Wizard
 
-kawã@developer:~$ cat about.txt
-Name: Kawã Correia
-Pronouns: ele/dele
-Location: Brasil 🇧🇷
-Role: Full Stack Developer
-Status: Always coding something cool... 
+root@matrix:~# cat /etc/developer/kawã.conf
+[SYSTEM INFO]
+User=kawã_correia
+Shell=/bin/awesome_developer
+Location=brasil_server_🇧🇷
+Pronouns=ele/dele
 
-kawã@developer:~$ ls -la experience/
-drwxr-xr-x  5 kawã kawã 4096 Aug 28 2025 .
-drwxr-xr-x  3 kawã kawã 4096 Aug 28 2025 ..
--rw-r--r--  1 kawã kawã  256 Aug 28 2025 frontend_3+years.log
--rw-r--r--  1 kawã kawã  128 Aug 28 2025 backend_1+year.log
--rw-r--r--  1 kawã kawã   64 Aug 28 2025 mobile_learning.tmp
+[CAPABILITIES]
+Frontend=EXPERT_LEVEL (3+ years)
+Backend=ADVANCED_LEVEL (1+ year) 
+Mobile=LEARNING_MODE (In Progress)
+ProblemSolving=LEGENDARY_LEVEL
 
-kawã@developer:~$ cat skills.json
-{
-    "frontend": ["React", "JavaScript", "HTML5", "CSS3"],
-    "backend": ["Node.js", "Express", "API REST"],
-    "databases": ["MongoDB", "MySQL", "PostgreSQL"],
-    "currently_learning": ["React Native", "Mobile Dev"]
-}
+[ACTIVE_PROCESSES]
+✓ react.service         - running since 3+ years
+✓ nodejs.service        - running since 1+ year  
+⟲ mobile_dev.service    - initializing...
+∞ learning.service      - always running
+∞ coffee.service        - critical dependency
 
-kawã@developer:~$ echo $MISSION
-"Transformar problemas reais em soluções digitais elegantes"
+root@matrix:~# ps aux | grep passion
+kawã    1337  99.9  0.1 999999 transforming_real_problems_into_solutions
+kawã    1338   0.0  0.0  always learning_new_technologies
+kawã    1339   0.0  0.0  seeking new_challenges_and_growth
 
-kawã@developer:~$ ./run_passion.sh
-- Iniciando modo desenvolvedor...
-- Paixão por tecnologia: ATIVA
-- Sede de aprendizado: MÁXIMA
-- Resolver problemas: ALWAYS ON
-- Status: Pronto para novos desafios!
+root@matrix:~# systemctl status kawã.service
+● kawã.service - Amazing Full Stack Developer
+   Loaded: loaded (/etc/systemd/system/kawã.service; enabled)
+   Active: active (running) since birth
+   Process: 25 years old, still optimizing...
+   Main PID: 2025 (always_coding)
+   CGroup: /system.slice/kawã.service
+           └─2025 /usr/bin/solve_problems --mode=creative --output=digital_solutions
 
-kawã@developer:~$ tail -f life.log
-[2025-08-28 14:30:15] INFO: Sempre em busca de novos conhecimentos
-[2025-08-28 14:30:16] INFO: Codando soluções inovadoras...
-[2025-08-28 14:30:17] INFO: Mobile development progress: 75%
-[2025-08-28 14:30:18] INFO: Coffee level: CRITICAL 
-[2025-08-28 14:30:19] INFO: Motivation status: MAXIMUM OVERDRIVE! 
+Aug 28 14:30:20 kawã[2025]: STATUS: Ready for new challenges! 
+Aug 28 14:30:21 kawã[2025]: LOG: Mobile development skills loading...
+Aug 28 14:30:22 kawã[2025]: INFO: Always available at kawaklebersc@gmail.com
 ```
 
 ## Tech Stack
