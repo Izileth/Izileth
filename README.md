@@ -5,10 +5,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=root@kawã:~$+whoami;Full+Stack+Developer;root@kawã:~$+cat+skills.txt;React+%7C+Node.js+%7C+MongoDB;root@kawã:~$+./run_awesome.sh)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=FF00FF,00FFFF,FFFF00&center=true&width=600&lines=✨+KAWÃ+CORREIA+✨;🚀+Full+Stack+Developer+🚀;💜+React+%7C+Node.js+Specialist+💜;🎯+Problem+Solver+🎯)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Emoji&size=20&color=FF6B6B,4ECDC4,45B7D1&center=true&width=600&lines=👋+Oi,+eu+sou+Kawã!;💻+Full+Stack+Developer;⚡+React+%7C+Node.js+%7C+MongoDB;🚀+Sempre+aprendendo+coisas+novas!;✨+Vamos+codar+juntos?)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawaklebersc@gmail.com)
@@ -19,75 +15,50 @@
 ## Sobre Mim
 
 ```bash
-┌─[kawã@redteam]─[~/developer_profile]
-└──╼ $ ./scan_developer.sh
+kawã@developer:~$ whoami
+Full Stack Developer | Problem Solver | Code Enthusiast
 
-    ██╗  ██╗ █████╗ ██╗    ██╗ ██████╗
-    ██║ ██╔╝██╔══██╗██║    ██║██╔════╝
-    █████╔╝ ███████║██║ █╗ ██║██║  ███╗
-    ██╔═██╗ ██╔══██║██║███╗██║██║   ██║
-    ██║  ██╗██║  ██║╚███╔███╔╝╚██████╔╝
-    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝
-    
-    Full Stack Developer | Brazilian Cyber Warrior
+kawã@developer:~$ pwd
+/home/kawã/projects/awesome_developer
 
-┌─[kawã@redteam]─[~/developer_profile]
-└──╼ $ nmap -A -T4 kawã_correia.local
+kawã@developer:~$ cat about.txt
+Name: Kawã Correia
+Pronouns: ele/dele
+Location: Brasil 🇧🇷
+Role: Full Stack Developer
+Status: Always coding something cool... 
 
-Starting Nmap 7.94 ( https://nmap.org )
-Nmap scan report for kawã_correia.local (192.168.1.337)
-Host is up (0.00ms latency).
+kawã@developer:~$ ls -la experience/
+drwxr-xr-x  5 kawã kawã 4096 Aug 28 2025 .
+drwxr-xr-x  3 kawã kawã 4096 Aug 28 2025 ..
+-rw-r--r--  1 kawã kawã  256 Aug 28 2025 frontend_3+years.log
+-rw-r--r--  1 kawã kawã  128 Aug 28 2025 backend_1+year.log
+-rw-r--r--  1 kawã kawã   64 Aug 28 2025 mobile_learning.tmp
 
-PORT      STATE SERVICE     VERSION
-22/tcp    open  ssh         Brazilian-Developer 3.0
-| ssh-hostkey:
-|   3072 pronouns: ele/dele
-|   256  location: Brasil 🇧🇷  
-|   256  role: Full Stack Developer
-80/tcp    open  http        Frontend-Master 3.0+
-|_http-title: React Specialist | 3+ Years Experience
-443/tcp   open  https       Secure-Solutions
-8000/tcp  open  http-alt    Backend-Ninja 1.0+
-|_http-title: Node.js Expert | API Master
-27017/tcp open  mongodb     Database-Wizard
-|_mongodb-info: MongoDB specialist
+kawã@developer:~$ cat skills.json
+{
+    "frontend": ["React", "JavaScript", "HTML5", "CSS3"],
+    "backend": ["Node.js", "Express", "API REST"],
+    "databases": ["MongoDB", "MySQL", "PostgreSQL"],
+    "currently_learning": ["React Native", "Mobile Dev"]
+}
 
-Service detection performed. All services are AWESOME! 🚀
+kawã@developer:~$ echo $MISSION
+"Transformar problemas reais em soluções digitais elegantes"
 
-┌─[kawã@redteam]─[~/developer_profile]
-└──╼ $ cat exploit_passion.py
-#!/usr/bin/env python3
+kawã@developer:~$ ./run_passion.sh
+- Iniciando modo desenvolvedor...
+- Paixão por tecnologia: ATIVA
+- Sede de aprendizado: MÁXIMA
+- Resolver problemas: ALWAYS ON
+- Status: Pronto para novos desafios!
 
-class KawãDeveloper:
-    def __init__(self):
-        self.name = "Kawã Correia"
-        self.location = "Brasil 🇧🇷"
-        self.role = "Full Stack Developer"
-        self.experience = {
-            "frontend": "3+ anos - EXPERT",
-            "backend": "1+ ano - ADVANCED", 
-            "mobile": "Em desenvolvimento - LOADING..."
-        }
-        
-    def exploit_problems(self, real_world_problem):
-        """Transform any problem into digital solution"""
-        solution = self.apply_creativity(real_world_problem)
-        return f"Problem SOLVED: {solution} 💡"
-        
-    def get_vulnerability_scan(self):
-        return {
-            "weakness": "Impossível parar de aprender 📚",
-            "exploit": "Sempre buscando novos desafios 🎯",
-            "backdoor": "kawaklebersc@gmail.com 📧"
-        }
-
-┌─[kawã@redteam]─[~/developer_profile]  
-└──╼ $ python3 exploit_passion.py
-[+] Target acquired: Real world problems
-[+] Payload: Creative digital solutions  
-[+] Exploitation successful: Problem transformed! ✅
-[+] Persistence: Always learning and growing 🔄
-[+] Command & Control: kawaklebersc@gmail.com 📡
+kawã@developer:~$ tail -f life.log
+[2025-08-28 14:30:15] INFO: Sempre em busca de novos conhecimentos
+[2025-08-28 14:30:16] INFO: Codando soluções inovadoras...
+[2025-08-28 14:30:17] INFO: Mobile development progress: 75%
+[2025-08-28 14:30:18] INFO: Coffee level: CRITICAL 
+[2025-08-28 14:30:19] INFO: Motivation status: MAXIMUM OVERDRIVE! 
 ```
 
 ## Tech Stack
