@@ -76,11 +76,11 @@ Mindset:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izileth&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=black-ice&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=FFFFFF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izileth&theme=black-ice&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izileth&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
 
 </div>
 
@@ -90,7 +90,7 @@ Mindset:
 
 <div align="center">
 
-[![Kawã github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kawã github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Izileth&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
