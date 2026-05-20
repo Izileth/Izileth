@@ -1,106 +1,113 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:111111&section=header&text=Kawã.&fontColor=ffffff&fontSize=42&fontAlignY=65&desc=Software%20Engineer%20in%20the%20making&descAlignY=85&descSize=14&animation=fadeIn"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:1a1a1a&section=header"/>
+<div align="center">
 
-# Welcome to Kawã's Github
-`</>`
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Codeforces](https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
-[![CodeChef](https://img.shields.io/badge/CODECHEF-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
-[![Pinterest](https://img.shields.io/badge/PINTEREST-000000?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com)
-[![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://google.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
+[![CodeChef](https://img.shields.io/badge/CODECHEF-0a0a0a?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+[![Pinterest](https://img.shields.io/badge/PINTEREST-0a0a0a?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com)
+[![Website](https://img.shields.io/badge/WEBSITE-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://google.com)
 
 </div>
 
+<br>
+
 ---
 
-# - About Me
+## ❯ `whoami`
+
+```
+  Name     → Kawã Kleber
+  Role     → Software Engineering Student
+  Focus    → Backend · Cybersecurity · Systems · DevOps
+  Mindset  → "Discipline beats motivation."
+```
+
+I build things from the ground up. I care deeply about how systems work under the hood —
+low-level programming, secure architectures, and clean, purposeful code.
+By night I'm chasing performance bottlenecks. By day I'm pretending I understand distributed systems.
+
+---
+
+## ❯ `cat interests.yaml`
 
 ```yaml
-Name: Kawã Kleber
-Focus: Software Engineering
-Learning:
+learning:
   - Backend Engineering
   - Cybersecurity
   - System Architecture
   - DevOps
   - Low Level Programming
 
-Languages:
-  - JavaScript
-  - TypeScript
+languages:
+  - JavaScript / TypeScript
   - Go
   - C
   - Ruby
 
-Operating Systems:
-  - Linux
+operating_systems:
+  - Linux (primary)
   - Windows
 
-Mindset:
-  - "Discipline beats motivation."
+currently_obsessing_over:
+  - "Systems that don't lie to you"
+  - "The gap between theory and production"
 ```
 
 ---
 
-# - Technologies
+## ❯ `ls ./tech-stack`
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-0a0a0a?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0a0a0a?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0a0a0a?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/GO-0a0a0a?style=for-the-badge&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/RUBY-0a0a0a?style=for-the-badge&logo=ruby&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/REACT-0a0a0a?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/ANGULAR-0a0a0a?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-0a0a0a?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Ruby](https://img.shields.io/badge/RUBY-000000?style=for-the-badge&logo=ruby&logoColor=white)
-![Angular](https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-0a0a0a?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-0a0a0a?style=for-the-badge&logo=linux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-0a0a0a?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-# - Statistics
+## ❯ `./stats --verbose`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izileth&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Izileth&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222&border_radius=6"/>
+<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izileth&theme=black-ice&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=888888&border=222222&border_radius=6"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izileth&theme=black-ice&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=FFFFFF"/>
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izileth&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izileth&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=222222&border_radius=6"/>
 
 </div>
 
 ---
 
-# - Contribution Graph
+## ❯ `git log --graph`
 
 <div align="center">
 
-[![Kawã github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Izileth&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-# - Quote
-
-<div align="center">
-
-> “Master your mind, and the world loses control over you.”
+[![Kawã's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Izileth&bg_color=0a0a0a&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=false&border_color=222222&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -108,6 +115,21 @@ Mindset:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a1a,100:000000&section=footer"/>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Master your mind, and the world loses control         ║
+║    over you."                                            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
+*Code is never finished. It only becomes slightly less wrong over time.*
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:111111,100:000000&section=footer"/>
 </div>
