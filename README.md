@@ -63,9 +63,6 @@ currently_obsessing_over:
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-0a0a0a?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0a0a0a?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0a0a0a?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-0a0a0a?style=for-the-badge&logo=go&logoColor=white)
@@ -74,9 +71,7 @@ currently_obsessing_over:
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-0a0a0a?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/ANGULAR-0a0a0a?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-0a0a0a?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-0a0a0a?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-0a0a0a?style=for-the-badge&logo=linux&logoColor=white)
@@ -91,14 +86,10 @@ currently_obsessing_over:
 ## ❯ `./stats --verbose`
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Izileth&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222&border_radius=6"/>
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izileth&theme=black-ice&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=888888&border=222222&border_radius=6"/>
-
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Izileth&show_icons=true&hide_border=false&theme=transparent&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=888888&border_color=222222&border_radius=6&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://streak-stats.demolab.com?user=Izileth&theme=transparent&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=888888&currStreakNum=ffffff&sideLabels=888888&sideNums=ffffff&dates=888888&stroke=222222&border=222222&border_radius=6"/>
 <br>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izileth&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=222222&border_radius=6"/>
-
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izileth&layout=compact&hide_border=false&theme=transparent&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=222222&border_radius=6&langs_count=8"/>
 </div>
 
 ---
