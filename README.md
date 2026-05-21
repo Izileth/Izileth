@@ -81,16 +81,17 @@ currently_obsessing_over:
 
 </div>
 
----
+
 
 ## ❯ `./stats --verbose`
-
+ 
 <div align="center">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Izileth&show_icons=true&hide_border=false&theme=transparent&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=888888&border_color=222222&border_radius=6&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://streak-stats.demolab.com?user=Izileth&theme=transparent&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=888888&currStreakNum=ffffff&sideLabels=888888&sideNums=ffffff&dates=888888&stroke=222222&border=222222&border_radius=6"/>
+<img height="175em" src="https://streak-stats.demolab.com?user=Izileth&theme=transparent&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=888888&currStreakNum=ffffff&sideLabels=888888&sideNums=ffffff&dates=888888&stroke=222222&border=222222&border_radius=6&hide_longest_streak=false"/>
 <br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izileth&layout=compact&hide_border=false&theme=transparent&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=222222&border_radius=6&langs_count=8"/>
 </div>
+
 
 ---
 
