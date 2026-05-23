@@ -121,7 +121,10 @@ currently_obsessing_over:
 </div>
 
 ---
+Note: for more interesting, see pintest: kyoshi_tk
+---
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:111111,100:000000&section=footer"/>
 </div>
+
