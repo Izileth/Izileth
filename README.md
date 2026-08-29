@@ -19,7 +19,7 @@
 
 ---
 
-## ❯ `whoami`
+## ❯ `Quem eu sou:`
 
 ```
   Name       → Kawã Kleber
@@ -35,7 +35,7 @@ By night I'm chasing performance bottlenecks. By day I'm pretending I understand
 
 ---
 
-## ❯ `cat currently.yaml`
+## ❯ `Trabalho com:`
 
 ```yaml
 building:
@@ -56,7 +56,7 @@ open_to:
 
 ---
 
-## ❯ `ls ./tech-stack`
+## ❯ `Linguagems:`
 
 <div align="center">
 
@@ -84,7 +84,7 @@ open_to:
 
 ---
 
-## ❯ `ls ./projects --featured`
+## ❯ `Projetos em destaque:`
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Projeto desenvolvido para criação de uma plataforma de lançamento e vendas de
 
 ---
 
-## ❯ `git log --graph`
+## ❯ `Atividades recentes:`
 
 <div align="center">
 
