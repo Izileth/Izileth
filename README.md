@@ -92,16 +92,16 @@ open_to:
 <tr>
 <td width="50%">
 
-** [Nome do Projeto 1](https://github.com/Izileth/repo1)**
-Breve descrição do que o projeto faz e qual problema resolve.
+** [Nemesis](https://github.com/Izileth/_nemesis)**
+Desenvolvimento de uma interface cujo conjunto de regras e protocolos objetiva a realização de postagens, criação de usuários, busca e funcionalidades padrão na indústria para projetos pequenos.
 `Go` `PostgreSQL` `Docker`
 
 </td>
 <td width="50%">
 
-** [Nome do Projeto 2](https://github.com/Izileth/repo2)**
-Breve descrição do que o projeto faz e qual problema resolve.
-`TypeScript` `Node.js`
+** [Prestige](https://github.com/Izileth/_prestige-motors-api)**
+Projeto desenvolvido para criação de uma plataforma de lançamento e vendas de veículos, com rotas de autenticação, criação de vendas, amostragem, categorias, busca por filtros, faixas de preço e demais funcionalidades de um projeto para porte grande e superior.
+`Javascript` `Node.js` `NoSQL`
 
 </td>
 </tr>
