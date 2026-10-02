@@ -237,7 +237,7 @@ lendo:
 
 <div align="center">
 
-[![Gráfico de Atividades de Kawã](https://github-readme-activity-graph.vercel.app/graph?username=Izileth\&bg_color=0a0a0a\&color=888888\&line=ffffff\&point=ffffff\&area=true\&area_color=222222\&hide_border=false\&border_color=222222\&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Atividades de Kawã](https://github-readme-activity-graph-three-gray.vercel.app/graph?username=Izileth&bg_color=0a0a0a&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=false&border_color=222222&radius=6)](https://github.com/Izileth)
 
 <br>
 
