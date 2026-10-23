@@ -159,7 +159,7 @@ API desenvolvida para uma plataforma de comercialização de veículos, exploran
 
 ---
 
-## `> cibersegurança`
+## `> cibersegurança >>`
 
 <div align="center">
 
@@ -200,7 +200,7 @@ Tenho interesse em **cibersegurança ofensiva e defensiva**, especialmente na in
 
 ---
 
-## `> aprendendo_atualmente`
+## `> aprendendo_atualmente >>`
 
 ```yaml
 aprendendo:
@@ -218,7 +218,7 @@ lendo:
 
 ---
 
-## `> princípios_de_engenharia`
+## `> princípios_de_engenharia >>`
 
 ```text
 01. Entenda antes de otimizar.
@@ -233,7 +233,7 @@ lendo:
 
 ---
 
-## `> atividade_no_github`
+## `> atividade_no_github >>`
 
 <div align="center">
 
@@ -249,7 +249,7 @@ lendo:
 
 ---
 
-## `> filosofia`
+## `> filosofia de desenvolvimento >>`
 
 <div align="center">
 
@@ -271,7 +271,7 @@ Ele apenas fica um pouco menos errado com o tempo.**
 
 <div align="center">
 
-### `> vamos_construir_algo`
+### `> e então, vamos_construir_algo?`
 
 Backend • Sistemas • Cibersegurança • Código Aberto
 
