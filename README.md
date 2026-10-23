@@ -16,7 +16,7 @@
 
 ---
 
-## `> afinal, quem_sou_eu?`
+## `> afinal, quem_sou_eu? <`
 
 ```text
 Kawã Kleber
@@ -271,7 +271,7 @@ Ele apenas fica um pouco menos errado com o tempo.**
 
 <div align="center">
 
-### `> e então, vamos_construir_algo?`
+### `> & então, vamos_construir_algo? <`
 
 Backend • Sistemas • Cibersegurança • Código Aberto
 
