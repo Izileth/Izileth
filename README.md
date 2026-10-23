@@ -40,7 +40,7 @@ Meu foco está na construção de sistemas **confiáveis, eficientes e seguros**
 
 ---
 
-## `> foco_atual`
+## `> foco_atual >>`
 
 ```yaml
 foco:
@@ -75,7 +75,7 @@ foco:
 
 ---
 
-## `> tecnologias`
+## `> tecnologias >>`
 
 <div align="center">
 
@@ -109,7 +109,7 @@ foco:
 
 ---
 
-## `> projetos_em_destaque`
+## `> projetos_em_destaque >>`
 
 ### Nemesis
 
