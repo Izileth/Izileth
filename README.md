@@ -278,7 +278,7 @@ Backend • Sistemas • Cibersegurança • Código Aberto
 <br>
 
 <p align="center">
-<sub>Mais conteúdo: <b>kyoshi_tk</b> · Pinterest</sub>
+<sub>Para mais conteúdo, acesse:  <b>kyoshi_tk</b> · Pinterest</sub>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:151515,100:050505&section=footer"/>
