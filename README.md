@@ -284,3 +284,6 @@ Backend • Sistemas • Cibersegurança • Código Aberto
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:151515,100:050505&section=footer"/>
 
 </div>
+
+
+
