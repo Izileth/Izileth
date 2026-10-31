@@ -273,7 +273,7 @@ Ele apenas fica um pouco menos errado com o tempo.**
 
 ### `> & então, vamos_construir_algo? <`
 
-Backend • Sistemas • Cibersegurança • Código Aberto
+Backend • Front-end • Cibersegurança • Sistemas 
 
 <br>
 
@@ -284,6 +284,8 @@ Backend • Sistemas • Cibersegurança • Código Aberto
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:151515,100:050505&section=footer"/>
 
 </div>
+
+
 
 
 
